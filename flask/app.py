@@ -8,7 +8,6 @@ from sklearn.preprocessing import LabelEncoder
 
 app = Flask(__name__)
 
-# Define global variables
 model = None
 vectorizer = None
 label_encoder = None
