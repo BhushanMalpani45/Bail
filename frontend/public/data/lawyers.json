@@ -1,0 +1,67 @@
+[{
+    "name": "Lawyer A",
+    "type":"lawyer",
+    "specialization": "Criminal Law",
+    "experience": "10 years",
+    "location": "Mumbai",
+    "contactDetails": {
+        "phone": "917999505967",
+        "email": "lawyerA@example.com"
+    }
+},
+{
+    "name": "Lawyer B",
+    "type":"probono",
+    "specialization": "Bail Procedures",
+    "experience": "8 years",
+    "location": "Delhi",
+    "contactDetails": {
+        "phone": "918765432109",
+        "email": "lawyerB@example.com"
+    }
+},
+{
+    "name": "Lawyer C",
+    "type":"lawyer",
+    "specialization": "Civil Rights",
+    "experience": "12 years",
+    "location": "Delhi",
+    "contactDetails": {
+        "phone": "+91-7654321098",
+        "email": "lawyerC@example.com"
+    }
+},
+{
+    "name": "Lawyer D",
+    "type":"lawyer",
+    "specialization": "Family Law",
+    "experience": "7 years",
+    "location": "Delhi",
+    "contactDetails": {
+        "phone": "+91-6543210987",
+        "email": "lawyerD@example.com"
+    }
+},
+{
+    "name": "Lawyer E",
+    "type":"probono",
+    "specialization": "Corporate Law",
+    "experience": "15 years",
+    "location": "Delhi",
+    "contactDetails": {
+        "phone": "+91-5432109876",
+        "email": "lawyerE@example.com"
+    }
+},
+{
+    "name": "Lawyer F",
+    "type":"lawyer",
+    "specialization": "Environmental Law",
+    "experience": "9 years",
+    "location": "Delhi",
+    "contactDetails": {
+        "phone": "+91-4321098765",
+        "email": "lawyerF@example.com"
+    }
+}
+]

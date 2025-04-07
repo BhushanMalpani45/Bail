@@ -1,0 +1,35 @@
+{
+    "caseId": "AB123456",
+    "charges": [{
+            "section": "Section 302",
+            "title": "Murder",
+            "description": "Causing the death of another person with the intent to kill.",
+            "penalty": "Life imprisonment or death penalty and fine."
+        },
+        {
+            "section": "Section 34",
+            "title": "Common Intention",
+            "description": "Acts done by several persons in furtherance of common intention.",
+            "penalty": "Depends on the associated primary offense."
+        }
+    ],
+    "imprisonmentDuration": "2 years 3 months",
+    "hearingDates": ["2023-03-15", "2023-08-10"],
+    "judge": "Justice A.K. Sharma",
+    "bailStatus": "Denied",
+    "bailHistory": [{
+            "date": "2022-12-01",
+            "status": "Applied",
+            "remarks": "Bail application submitted for review."
+        },
+        {
+            "date": "2023-01-10",
+            "status": "Denied",
+            "remarks": "Bail denied due to the severity of the charges."
+        }
+    ],
+    "lawyer": {
+        "name": "Advocate Rahul Gupta",
+        "contact": "+91-9876543210"
+    }
+}

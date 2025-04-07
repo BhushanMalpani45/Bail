@@ -1,0 +1,721 @@
+[{
+        "Offense_ID": 1,
+        "Offense_Name": "Cyberstalking",
+        "Law_ID": 4,
+        "Description": "Repeated harassment via electronic communication.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 2,
+        "Offense_Name": "Hacking",
+        "Law_ID": 4,
+        "Description": "Unauthorized access to computer systems.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 3,
+        "Offense_Name": "Publishing obscene material in electronic form",
+        "Law_ID": 4,
+        "Description": "Publishing or transmitting obscene material online.",
+        "Penalty/Imprisonment Duration": "Up to 5 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 4,
+        "Offense_Name": "Identity theft",
+        "Law_ID": 24,
+        "Description": "Fraudulently using someone else's identity.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 5,
+        "Offense_Name": "Cyber terrorism",
+        "Law_ID": 25,
+        "Description": "Terrorist activities carried out using electronic means.",
+        "Penalty/Imprisonment Duration": "Life imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 6,
+        "Offense_Name": "Human trafficking",
+        "Law_ID": 28,
+        "Description": "Trafficking of persons for exploitation.",
+        "Penalty/Imprisonment Duration": "7 years to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 7,
+        "Offense_Name": "Sexual harassment",
+        "Law_ID": 13,
+        "Description": "Unwelcome sexual advances or harassment at the workplace.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 8,
+        "Offense_Name": "Rape",
+        "Law_ID": 18,
+        "Description": "Non-consensual sexual intercourse.",
+        "Penalty/Imprisonment Duration": "Minimum 10 years to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 9,
+        "Offense_Name": "Domestic violence",
+        "Law_ID": 6,
+        "Description": "Physical, emotional, or psychological abuse within the household.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 10,
+        "Offense_Name": "Acid attack",
+        "Law_ID": 10,
+        "Description": "Throwing acid with intent to cause harm or disfigurement.",
+        "Penalty/Imprisonment Duration": "10 years to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 11,
+        "Offense_Name": "Dowry death",
+        "Law_ID": 30,
+        "Description": "Death of a woman due to dowry-related harassment.",
+        "Penalty/Imprisonment Duration": "Minimum 7 years to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 12,
+        "Offense_Name": "Child sexual abuse",
+        "Law_ID": 7,
+        "Description": "Sexual exploitation of children.",
+        "Penalty/Imprisonment Duration": "Up to 7 years or fine, or both",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 13,
+        "Offense_Name": "Child pornography",
+        "Law_ID": 7,
+        "Description": "Creation or distribution of pornographic material involving children.",
+        "Penalty/Imprisonment Duration": "Up to 5 years or fine, or both",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 14,
+        "Offense_Name": "Kidnapping",
+        "Law_ID": 29,
+        "Description": "Unlawfully taking or detaining a person, especially minors.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 15,
+        "Offense_Name": "Cruelty by husband or relatives",
+        "Law_ID": 16,
+        "Description": "Cruelty or harassment by the husband or his relatives.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 16,
+        "Offense_Name": "Assault with intent to outrage modesty of a woman",
+        "Law_ID": 15,
+        "Description": "Physical assault with the intent to outrage a woman's modesty.",
+        "Penalty/Imprisonment Duration": "1 to 5 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 17,
+        "Offense_Name": "Insult to modesty of a woman",
+        "Law_ID": 37,
+        "Description": "Using words, gestures, or acts to insult a woman's modesty.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 18,
+        "Offense_Name": "Indecent representation of women",
+        "Law_ID": 11,
+        "Description": "Depicting women in an indecent manner in various media forms.",
+        "Penalty/Imprisonment Duration": "Up to 2 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 19,
+        "Offense_Name": "Exploitation of SC/ST persons",
+        "Law_ID": 5,
+        "Description": "Committing atrocities against Scheduled Castes or Scheduled Tribes.",
+        "Penalty/Imprisonment Duration": "6 months to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 20,
+        "Offense_Name": "Prevention of atrocities against SC/ST",
+        "Law_ID": 36,
+        "Description": "Preventing any act of atrocity against members of SC/ST communities.",
+        "Penalty/Imprisonment Duration": "6 months to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 21,
+        "Offense_Name": "Forced labor of SC/ST persons",
+        "Law_ID": 36,
+        "Description": "Forcing members of SC/ST communities to perform labor against their will.",
+        "Penalty/Imprisonment Duration": "Up to 5 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 22,
+        "Offense_Name": "Promotion of enmity between different groups",
+        "Law_ID": 33,
+        "Description": "Promoting hatred between different religious or social groups.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 23,
+        "Offense_Name": "Insult to religion",
+        "Law_ID": 32,
+        "Description": "Insulting religious beliefs or practices of any community.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 24,
+        "Offense_Name": "Offenses related to dowry",
+        "Law_ID": 12,
+        "Description": "Giving or receiving dowry or any related harassment.",
+        "Penalty/Imprisonment Duration": "Up to 5 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 25,
+        "Offense_Name": "Murder",
+        "Law_ID": 19,
+        "Description": "Unlawful killing of a person with intent to kill.",
+        "Penalty/Imprisonment Duration": "Life imprisonment or death penalty",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 26,
+        "Offense_Name": "Attempt to murder",
+        "Law_ID": 20,
+        "Description": "Attempting to kill another person.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment or 10 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 27,
+        "Offense_Name": "Attempt to suicide",
+        "Law_ID": 31,
+        "Description": "Attempting to take one's own life.",
+        "Penalty/Imprisonment Duration": "Up to 1 year or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 28,
+        "Offense_Name": "Fraud and cheating",
+        "Law_ID": 23,
+        "Description": "Deceiving someone to gain a dishonest advantage.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 29,
+        "Offense_Name": "Voluntarily causing hurt",
+        "Law_ID": 39,
+        "Description": "Causing physical harm to someone voluntarily.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 30,
+        "Offense_Name": "Sexual exploitation of children",
+        "Law_ID": 40,
+        "Description": "Engaging in sexual activities with minors.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 31,
+        "Offense_Name": "Attempt to commit offenses",
+        "Law_ID": 31,
+        "Description": "Preparing or attempting to commit a crime.",
+        "Penalty/Imprisonment Duration": "Half of the maximum imprisonment for the attempted offense",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 32,
+        "Offense_Name": "Offenses against state security",
+        "Law_ID": 21,
+        "Description": "Acts that threaten the security of the state.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 33,
+        "Offense_Name": "Public nuisance",
+        "Law_ID": 41,
+        "Description": "Causing a public disturbance or annoyance.",
+        "Penalty/Imprisonment Duration": "Up to 6 months or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 34,
+        "Offense_Name": "Kidnapping for ransom",
+        "Law_ID": 29,
+        "Description": "Kidnapping a person with the intention to demand ransom.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 35,
+        "Offense_Name": "Offenses related to trafficking and exploitation",
+        "Law_ID": 22,
+        "Description": "Engaging in human trafficking or exploitation of vulnerable individuals.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 36,
+        "Offense_Name": "Identity theft in cyberspace",
+        "Law_ID": 4,
+        "Description": "Stealing someone's identity for online fraud or deception.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 37,
+        "Offense_Name": "Voluntarily causing grievous hurt",
+        "Law_ID": 39,
+        "Description": "Causing serious injury to someone voluntarily.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 38,
+        "Offense_Name": "Offending religious sentiments",
+        "Law_ID": 32,
+        "Description": "Deliberately offending the religious sentiments of a community.",
+        "Penalty/Imprisonment Duration": "Up to 3 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 39,
+        "Offense_Name": "Sexual harassment and stalking",
+        "Law_ID": 44,
+        "Description": "Engaging in repeated unwanted attention or sexual advances towards a person.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 40,
+        "Offense_Name": "Crimes against foreigners",
+        "Law_ID": 7,
+        "Description": "Offenses committed against foreign nationals in India.",
+        "Penalty/Imprisonment Duration": "Varies based on the offense",
+        "Bail Eligibility Status": "Non-bailable (depends on offense)"
+    },
+    {
+        "Offense_ID": 41,
+        "Offense_Name": "Unlawful assembly",
+        "Law_ID": 41,
+        "Description": "Gathering with the intent to commit a crime.",
+        "Penalty/Imprisonment Duration": "Up to 6 months or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 42,
+        "Offense_Name": "Cyber fraud",
+        "Law_ID": 28,
+        "Description": "Using online means to deceive someone for financial gain.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 43,
+        "Offense_Name": "Word, gesture or act intended to insult a woman",
+        "Law_ID": 43,
+        "Description": "Using offensive language or gestures towards a woman.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 44,
+        "Offense_Name": "Offenses against women and children",
+        "Law_ID": 12,
+        "Description": "Crimes specifically targeting women and children.",
+        "Penalty/Imprisonment Duration": "Varies based on the offense",
+        "Bail Eligibility Status": "Non-bailable (depends on offense)"
+    },
+    {
+        "Offense_ID": 45,
+        "Offense_Name": "Forgery",
+        "Law_ID": 23,
+        "Description": "Creating false documents or signatures to deceive.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 46,
+        "Offense_Name": "Sexual harassment and punishment for sexual harassment",
+        "Law_ID": 44,
+        "Description": "Unwelcome sexual advances or harassment in any form.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 47,
+        "Offense_Name": "Offenses related to terrorism",
+        "Law_ID": 32,
+        "Description": "Engaging in acts of terrorism that threaten public safety.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 48,
+        "Offense_Name": "Child labor",
+        "Law_ID": 14,
+        "Description": "Employing children in hazardous occupations.",
+        "Penalty/Imprisonment Duration": "Up to 2 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 49,
+        "Offense_Name": "Offenses related to narcotics",
+        "Law_ID": 45,
+        "Description": "Engaging in illegal drug production, distribution, or consumption.",
+        "Penalty/Imprisonment Duration": "Up to 10 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 50,
+        "Offense_Name": "Smuggling",
+        "Law_ID": 46,
+        "Description": "Illegal transport of goods, including drugs, arms, or wildlife.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 51,
+        "Offense_Name": "Waging War Against the State",
+        "Law_ID": 51,
+        "Description": "Engaging in or supporting activities aimed at overthrowing the government.",
+        "Penalty/Imprisonment Duration": "Death penalty or life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 52,
+        "Offense_Name": "Concealing Design to Commit a Crime",
+        "Law_ID": 52,
+        "Description": "Hiding the design or plan to commit a crime against the state.",
+        "Penalty/Imprisonment Duration": "Up to 10 years imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 53,
+        "Offense_Name": "Sedition",
+        "Law_ID": 53,
+        "Description": "Inciting rebellion against the state through speech or actions.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 54,
+        "Offense_Name": "Promoting Enmity Between Groups",
+        "Law_ID": 54,
+        "Description": "Creating discord or hostility between different groups.",
+        "Penalty/Imprisonment Duration": "Up to 3 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 55,
+        "Offense_Name": "Deliberate and Malicious Acts Outraging Religious Feelings",
+        "Law_ID": 55,
+        "Description": "Acts intended to insult or offend religious sentiments.",
+        "Penalty/Imprisonment Duration": "Up to 3 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 56,
+        "Offense_Name": "Bribery and Corruption",
+        "Law_ID": 56,
+        "Description": "Accepting or giving bribes, including by public servants.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 57,
+        "Offense_Name": "Economic Offenses",
+        "Law_ID": 57,
+        "Description": "Includes crimes like fraud, embezzlement, and money laundering.",
+        "Penalty/Imprisonment Duration": "Varies by offense; often high penalties",
+        "Bail Eligibility Status": "Depends on offense"
+    },
+    {
+        "Offense_ID": 58,
+        "Offense_Name": "Overstaying Visa",
+        "Law_ID": 58,
+        "Description": "Staying in India beyond the authorized period.",
+        "Penalty/Imprisonment Duration": "Up to 5 years imprisonment or fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 59,
+        "Offense_Name": "Violation of Foreign Funding Regulations",
+        "Law_ID": 59,
+        "Description": "Receiving or using foreign funds illegally.",
+        "Penalty/Imprisonment Duration": "Up to 5 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 60,
+        "Offense_Name": "Cheating and Dishonestly Inducing Delivery of Property",
+        "Law_ID": 60,
+        "Description": "Fraudulent misrepresentation to gain property.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 61,
+        "Offense_Name": "Criminal Breach of Trust by Clerk or Servant",
+        "Law_ID": 61,
+        "Description": "Misappropriation of property entrusted to a clerk or servant.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 62,
+        "Offense_Name": "Criminal Breach of Trust by Public Servant",
+        "Law_ID": 62,
+        "Description": "Misappropriation of property by a public servant.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 63,
+        "Offense_Name": "Falsification of Accounts",
+        "Law_ID": 63,
+        "Description": "Altering or falsifying financial records.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 64,
+        "Offense_Name": "Counterfeiting Currency",
+        "Law_ID": 64,
+        "Description": "Producing or distributing fake currency.",
+        "Penalty/Imprisonment Duration": "Up to life imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 65,
+        "Offense_Name": "Using Counterfeit Currency",
+        "Law_ID": 65,
+        "Description": "Using fake currency as if it were genuine.",
+        "Penalty/Imprisonment Duration": "Up to 14 years imprisonment and fine",
+        "Bail Eligibility Status": "Non-bailable"
+    },
+    {
+        "Offense_ID": 66,
+        "Offense_Name": "Possession of Counterfeit Currency",
+        "Law_ID": 66,
+        "Description": "Holding counterfeit money.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 67,
+        "Offense_Name": "Violation of Foreign Exchange Regulations",
+        "Law_ID": 67,
+        "Description": "Illegal transactions or dealings in foreign exchange.",
+        "Penalty/Imprisonment Duration": "Varies; includes fines and imprisonment",
+        "Bail Eligibility Status": "Depends on offense"
+    },
+    {
+        "Offense_ID": 68,
+        "Offense_Name": "Smuggling of Goods",
+        "Law_ID": 68,
+        "Description": "Importing or exporting goods illegally.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 69,
+        "Offense_Name": "Smuggling and Related Offenses",
+        "Law_ID": 69,
+        "Description": "Various offenses related to smuggling.",
+        "Penalty/Imprisonment Duration": "Up to 7 years imprisonment and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 70,
+        "Offense_Name": "Violation of Immigration Laws",
+        "Law_ID": 70,
+        "Description": "Illegal entry or stay in India.",
+        "Penalty/Imprisonment Duration": "Up to 5 years imprisonment or fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 71,
+        "Offense_Name": "Theft",
+        "Law_ID": 83,
+        "Description": "Unlawful taking of someone else's property with the intent to permanently deprive the owner of it.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 72,
+        "Offense_Name": "Robbery",
+        "Law_ID": 83,
+        "Description": "Theft involving violence or threat of violence to a person.",
+        "Penalty/Imprisonment Duration": "Up to 10 years and fine",
+        "Bail Eligibility Status": "Not Eligible"
+    },
+    {
+        "Offense_ID": 73,
+        "Offense_Name": "Attempted Suicide",
+        "Law_ID": 71,
+        "Description": "Attempting to end one's own life.",
+        "Penalty/Imprisonment Duration": "May be treated with appropriate care instead of punishment",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 74,
+        "Offense_Name": "Suicide",
+        "Law_ID": 71,
+        "Description": "Ending one's own life. Note: Suicide itself is not punishable but abetment to suicide is.",
+        "Penalty/Imprisonment Duration": "N/A",
+        "Bail Eligibility Status": "N/A"
+    },
+    {
+        "Offense_ID": 75,
+        "Offense_Name": "Money Laundering",
+        "Law_ID": 73,
+        "Description": "Engaging in financial transactions to conceal the identity, source, or destination of illegally gained money.",
+        "Penalty/Imprisonment Duration": "3 to 7 years and fine",
+        "Bail Eligibility Status": "Not Eligible"
+    },
+    {
+        "Offense_ID": 76,
+        "Offense_Name": "Drug Trafficking",
+        "Law_ID": 74,
+        "Description": "Illegally transporting or selling narcotic drugs or psychotropic substances.",
+        "Penalty/Imprisonment Duration": "Up to 20 years and fine",
+        "Bail Eligibility Status": "Not Eligible"
+    },
+    {
+        "Offense_ID": 77,
+        "Offense_Name": "Illegal Possession of Arms",
+        "Law_ID": 75,
+        "Description": "Possession of firearms without a valid license.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 78,
+        "Offense_Name": "Wildlife Poaching",
+        "Law_ID": 76,
+        "Description": "Illegal hunting or capturing of wildlife species.",
+        "Penalty/Imprisonment Duration": "3 to 7 years and fine",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 79,
+        "Offense_Name": "Antiquities Smuggling",
+        "Law_ID": 77,
+        "Description": "Illegally exporting or dealing in antiquities.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 80,
+        "Offense_Name": "Obstruction of RTI",
+        "Law_ID": 78,
+        "Description": "Preventing disclosure of information that should be publicly accessible under the Right to Information Act.",
+        "Penalty/Imprisonment Duration": "Up to 2 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 81,
+        "Offense_Name": "Violation of Human Rights",
+        "Law_ID": 79,
+        "Description": "Actions infringing on the fundamental rights guaranteed to all humans.",
+        "Penalty/Imprisonment Duration": "Depends on the specific violation",
+        "Bail Eligibility Status": "Varies"
+    },
+    {
+        "Offense_ID": 82,
+        "Offense_Name": "Child Labor",
+        "Law_ID": 80,
+        "Description": "Employing children below the age of 14 in hazardous occupations.",
+        "Penalty/Imprisonment Duration": "Up to 2 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 83,
+        "Offense_Name": "Juvenile Delinquency",
+        "Law_ID": 81,
+        "Description": "Criminal behavior by a person who is not yet an adult according to the legal age.",
+        "Penalty/Imprisonment Duration": "Rehabilitation in a juvenile home",
+        "Bail Eligibility Status": "Depends on the offense"
+    },
+    {
+        "Offense_ID": 84,
+        "Offense_Name": "Unauthorized Access to Computer Systems",
+        "Law_ID": 82,
+        "Description": "Accessing a computer system without permission or exceeding authorized access.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 85,
+        "Offense_Name": "Corruption",
+        "Law_ID": 84,
+        "Description": "Engaging in unethical or illegal activities to gain financial or personal advantage.",
+        "Penalty/Imprisonment Duration": "Up to 7 years and fine",
+        "Bail Eligibility Status": "Not Eligible"
+    },
+    {
+        "Offense_ID": 86,
+        "Offense_Name": "Consumer Fraud",
+        "Law_ID": 85,
+        "Description": "Engaging in deceptive practices to defraud consumers.",
+        "Penalty/Imprisonment Duration": "Up to 3 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 87,
+        "Offense_Name": "Breach of Contract",
+        "Law_ID": 86,
+        "Description": "Failure to perform any term of a contract without a legitimate legal excuse.",
+        "Penalty/Imprisonment Duration": "Varies with the nature of the breach",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 88,
+        "Offense_Name": "Illegal Partnership Operations",
+        "Law_ID": 87,
+        "Description": "Operating a partnership firm without adhering to legal requirements.",
+        "Penalty/Imprisonment Duration": "Up to 2 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 89,
+        "Offense_Name": "Fraudulent Sale of Goods",
+        "Law_ID": 88,
+        "Description": "Selling goods by misrepresenting their nature, quantity, or quality.",
+        "Penalty/Imprisonment Duration": "Up to 2 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    },
+    {
+        "Offense_ID": 90,
+        "Offense_Name": "Cheque Bounce",
+        "Law_ID": 89,
+        "Description": "Issuance of a cheque without sufficient funds in the account, leading to the cheque being dishonored.",
+        "Penalty/Imprisonment Duration": "Up to 2 years or fine, or both",
+        "Bail Eligibility Status": "Eligible"
+    }
+]

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bail Reckoner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            width: 100%;
+        }
+        
+        button {
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        
+        .result {
+            margin-top: 20px;
+        }
+        
+        .result h2 {
+            font-size: 18px;
+            margin: 0 0 10px;
+        }
+        
+        .result h3 {
+            font-size: 16px;
+            margin: 10px 0 5px;
+        }
+        
+        .result p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Bail Reckoner</h1>
+        <label for="offenses">Enter Offenses (comma-separated, "and", or space):</label>
+        <input type="text" id="offenses" name="offenses" placeholder="E.g., Cyberstalking, Theft">
+        <button onclick="getInfo()">Get Information</button>
+        <div class="result" id="result"></div>
+    </div>
+    <script>
+        async function getInfo() {
+            const offenses = document.getElementById('offenses').value;
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = ''; // Clear previous results
+
+            if (!offenses) {
+                resultDiv.innerHTML = '<p>Please enter at least one offense.</p>';
+                return;
+            }
+
+            try {
+                const response = await fetch(`/get_info?offenses=${encodeURIComponent(offenses)}`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                const data = await response.json();
+
+                let resultHtml = '';
+
+                // Handle multiple or single results
+                if (Array.isArray(data)) {
+                    data.forEach(result => {
+                        if (result.error) {
+                            resultHtml += `<p>${result.error}</p>`;
+                        } else {
+                            resultHtml += formatResult(result);
+                        }
+                    });
+                } else {
+                    if (data.error) {
+                        resultHtml += `<p>${data.error}</p>`;
+                    } else {
+                        resultHtml += formatResult(data);
+                    }
+                }
+
+                resultDiv.innerHTML = resultHtml;
+            } catch (error) {
+                resultDiv.innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        }
+
+        function formatResult(result) {
+            let resultHtml = `<h2>Offense: ${result.Offense}</h2>`;
+            if (result.Laws && result.Laws.length > 0) {
+                result.Laws.forEach(law => {
+                    resultHtml += `
+                        <h3>${law.Law_Name} (${law.Abbreviation})</h3>
+                        <p>${law.Description}</p>
+                        <p><strong>Bail Eligibility Status:</strong> ${result.Bail_Eligibility_Status}</p>
+                        <p><strong>Penalty/Imprisonment Duration:</strong> ${result['Penalty/Imprisonment Duration']}</p>
+                    `;
+                });
+            } else {
+                resultHtml += '<p>No laws found for this offense.</p>';
+            }
+            return resultHtml;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+{
+    "deploy_prototxt": "resources/detection_model/deploy.prototxt",
+    "caffemodel": "resources/detection_model/Widerface-RetinaFace.caffemodel"
+}

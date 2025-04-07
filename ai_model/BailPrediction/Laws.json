@@ -1,0 +1,535 @@
+[{
+        "Law_ID": 1,
+        "Law_Name": "Indian Penal Code, 1860",
+        "Abbreviation": "IPC",
+        "Description": "The primary criminal code of India covering various offenses."
+    },
+    {
+        "Law_ID": 2,
+        "Law_Name": "Bhartiya Nyaya Sanhita, 2023",
+        "Abbreviation": "BNS 2023",
+        "Description": "A new law replacing the IPC with modernized provisions."
+    },
+    {
+        "Law_ID": 3,
+        "Law_Name": "Bhartiya Saakshaya Abhiyan, 2023",
+        "Abbreviation": "BSA 2023",
+        "Description": "Focuses on evidentiary laws and procedures."
+    },
+    {
+        "Law_ID": 4,
+        "Law_Name": "Information Technology Act, 2000",
+        "Abbreviation": "IT Act 2000",
+        "Description": "Governs cybercrimes and electronic commerce in India."
+    },
+    {
+        "Law_ID": 5,
+        "Law_Name": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+        "Abbreviation": "SC/ST Act",
+        "Description": "Aimed at preventing atrocities against SCs and STs."
+    },
+    {
+        "Law_ID": 6,
+        "Law_Name": "Protection of Women from Domestic Violence Act, 2005",
+        "Abbreviation": "PWDVA 2005",
+        "Description": "Protects women from domestic violence."
+    },
+    {
+        "Law_ID": 7,
+        "Law_Name": "Protection of Children from Sexual Offenses Act, 2012",
+        "Abbreviation": "POCSO Act 2012",
+        "Description": "Provides for the protection of children from sexual offenses."
+    },
+    {
+        "Law_ID": 8,
+        "Law_Name": "Juvenile Justice (Care and Protection of Children) Act, 2015",
+        "Abbreviation": "JJ Act 2015",
+        "Description": "Governs the care and protection of juveniles in conflict with law."
+    },
+    {
+        "Law_ID": 9,
+        "Law_Name": "Cybersecurity Framework, Bhartiya Nyaya Sanhita 2023",
+        "Abbreviation": "BNS Cyber",
+        "Description": "New provisions related to cybersecurity and offenses in the digital domain."
+    },
+    {
+        "Law_ID": 10,
+        "Law_Name": "Criminal Law (Amendment) Act, 2013",
+        "Abbreviation": "CLA 2013",
+        "Description": "Amended laws related to sexual offenses and crimes against women."
+    },
+    {
+        "Law_ID": 11,
+        "Law_Name": "The Indecent Representation of Women (Prohibition) Act, 1986",
+        "Abbreviation": "IRWPA 1986",
+        "Description": "Prohibits indecent representation of women in media."
+    },
+    {
+        "Law_ID": 12,
+        "Law_Name": "Dowry Prohibition Act, 1961",
+        "Abbreviation": "DPA 1961",
+        "Description": "Prevents the giving or receiving of dowry."
+    },
+    {
+        "Law_ID": 13,
+        "Law_Name": "Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013",
+        "Abbreviation": "POSH 2013",
+        "Description": "Protects women from sexual harassment at the workplace."
+    },
+    {
+        "Law_ID": 14,
+        "Law_Name": "Child Labour (Prohibition and Regulation) Act, 1986",
+        "Abbreviation": "CLPRA 1986",
+        "Description": "Regulates the employment of children in various occupations."
+    },
+    {
+        "Law_ID": 15,
+        "Law_Name": "Indian Penal Code, Section 354",
+        "Abbreviation": "IPC 354",
+        "Description": "Outraging the modesty of a woman."
+    },
+    {
+        "Law_ID": 16,
+        "Law_Name": "Indian Penal Code, Section 498A",
+        "Abbreviation": "IPC 498A",
+        "Description": "Cruelty by husband or relatives of husband."
+    },
+    {
+        "Law_ID": 17,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Insulting the modesty of a woman."
+    },
+    {
+        "Law_ID": 18,
+        "Law_Name": "Indian Penal Code, Section 376",
+        "Abbreviation": "IPC 376",
+        "Description": "Punishment for rape."
+    },
+    {
+        "Law_ID": 19,
+        "Law_Name": "Indian Penal Code, Section 302",
+        "Abbreviation": "IPC 302",
+        "Description": "Punishment for murder."
+    },
+    {
+        "Law_ID": 20,
+        "Law_Name": "Indian Penal Code, Section 307",
+        "Abbreviation": "IPC 307",
+        "Description": "Attempt to murder."
+    },
+    {
+        "Law_ID": 21,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 101",
+        "Abbreviation": "BNS 101",
+        "Description": "Offenses against state security."
+    },
+    {
+        "Law_ID": 22,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 376B",
+        "Abbreviation": "BNS 376B",
+        "Description": "Offenses related to trafficking and sexual exploitation."
+    },
+    {
+        "Law_ID": 23,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 420",
+        "Abbreviation": "BNS 420",
+        "Description": "Fraud and cheating."
+    },
+    {
+        "Law_ID": 24,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 66C",
+        "Abbreviation": "BNS 66C",
+        "Description": "Identity theft in cyberspace."
+    },
+    {
+        "Law_ID": 25,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 66F",
+        "Abbreviation": "BNS 66F",
+        "Description": "Cyber terrorism."
+    },
+    {
+        "Law_ID": 26,
+        "Law_Name": "Bhartiya Saakshaya Abhiyan, Section 45",
+        "Abbreviation": "BSA 45",
+        "Description": "Rules regarding electronic evidence."
+    },
+    {
+        "Law_ID": 27,
+        "Law_Name": "Bhartiya Saakshaya Abhiyan, Section 67",
+        "Abbreviation": "BSA 67",
+        "Description": "Admissibility of digital records."
+    },
+    {
+        "Law_ID": 28,
+        "Law_Name": "Indian Penal Code, Section 370",
+        "Abbreviation": "IPC 370",
+        "Description": "Human trafficking."
+    },
+    {
+        "Law_ID": 29,
+        "Law_Name": "Indian Penal Code, Section 363",
+        "Abbreviation": "IPC 363",
+        "Description": "Kidnapping and abduction."
+    },
+    {
+        "Law_ID": 30,
+        "Law_Name": "Indian Penal Code, Section 304B",
+        "Abbreviation": "IPC 304B",
+        "Description": "Dowry death."
+    },
+    {
+        "Law_ID": 31,
+        "Law_Name": "Indian Penal Code, Section 511",
+        "Abbreviation": "IPC 511",
+        "Description": "Punishment for attempting to commit offenses."
+    },
+    {
+        "Law_ID": 32,
+        "Law_Name": "Indian Penal Code, Section 295A",
+        "Abbreviation": "IPC 295A",
+        "Description": "Offending religious sentiments."
+    },
+    {
+        "Law_ID": 33,
+        "Law_Name": "Indian Penal Code, Section 153A",
+        "Abbreviation": "IPC 153A",
+        "Description": "Promoting enmity between different groups."
+    },
+    {
+        "Law_ID": 34,
+        "Law_Name": "Indian Penal Code, Section 377",
+        "Abbreviation": "IPC 377",
+        "Description": "Unnatural offenses."
+    },
+    {
+        "Law_ID": 35,
+        "Law_Name": "Indian Penal Code, Section 375",
+        "Abbreviation": "IPC 375",
+        "Description": "Definition of rape."
+    },
+    {
+        "Law_ID": 36,
+        "Law_Name": "Protection of Civil Rights Act, 1955",
+        "Abbreviation": "PCRA 1955",
+        "Description": "Protects the rights of SCs and STs from discrimination."
+    },
+    {
+        "Law_ID": 37,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Word, gesture, or act intended to insult the modesty of a woman."
+    },
+    {
+        "Law_ID": 38,
+        "Law_Name": "Protection of Women from Domestic Violence Rules, 2006",
+        "Abbreviation": "PWDVA Rules 2006",
+        "Description": "Rules framed under PWDVA 2005 to combat domestic violence."
+    },
+    {
+        "Law_ID": 39,
+        "Law_Name": "Indian Penal Code, Section 324",
+        "Abbreviation": "IPC 324",
+        "Description": "Voluntarily causing hurt by dangerous weapons."
+    },
+    {
+        "Law_ID": 40,
+        "Law_Name": "Indian Penal Code, Section 375",
+        "Abbreviation": "IPC 375",
+        "Description": "Offenses related to rape and sexual assault."
+    },
+    {
+        "Law_ID": 41,
+        "Law_Name": "Indian Penal Code, Section 34",
+        "Abbreviation": "IPC 34",
+        "Description": "Acts done by several persons in furtherance of common intention."
+    },
+    {
+        "Law_ID": 42,
+        "Law_Name": "Indian Penal Code, Section 498",
+        "Abbreviation": "IPC 498",
+        "Description": "Enticing or taking away or detaining with a criminal intent a married woman."
+    },
+    {
+        "Law_ID": 43,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Word, gesture or act intended to insult the modesty of a woman."
+    },
+    {
+        "Law_ID": 44,
+        "Law_Name": "Indian Penal Code, Section 354A",
+        "Abbreviation": "IPC 354A",
+        "Description": "Sexual harassment and punishment for sexual harassment."
+    },
+    {
+        "Law_ID": 45,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Word, gesture or act intended to insult the modesty of a woman."
+    },
+    {
+        "Law_ID": 46,
+        "Law_Name": "Indian Penal Code, Section 498A",
+        "Abbreviation": "IPC 498A",
+        "Description": "Husband or relative of husband of a woman subjecting her to cruelty."
+    },
+    {
+        "Law_ID": 47,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Word, gesture, or act intended to insult the modesty of a woman."
+    },
+    {
+        "Law_ID": 48,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 505",
+        "Abbreviation": "BNS 505",
+        "Description": "Offenses related to promoting enmity between different groups."
+    },
+    {
+        "Law_ID": 49,
+        "Law_Name": "Bhartiya Nyaya Sanhita, Section 505B",
+        "Abbreviation": "BNS 505B",
+        "Description": "Offenses related to disrupting harmony."
+    },
+    {
+        "Law_ID": 50,
+        "Law_Name": "Indian Penal Code, Section 509",
+        "Abbreviation": "IPC 509",
+        "Description": "Word, gesture, or act intended to insult the modesty of a woman."
+    },
+    {
+        "Law_ID": 51,
+        "Law_Name": "Indian Penal Code, 1860 (IPC)",
+        "Abbreviation": "S. 121",
+        "Description": "Engaging in actions aimed at overthrowing the government."
+    },
+    {
+        "Law_ID": 52,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 122",
+        "Description": "Concealing the design of any crime against the state."
+    },
+    {
+        "Law_ID": 53,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 124A",
+        "Description": "Actions or speech that incite rebellion against the state."
+    },
+    {
+        "Law_ID": 54,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 153A",
+        "Description": "Acts that create discord between different groups."
+    },
+    {
+        "Law_ID": 55,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 295A",
+        "Description": "Acts intended to offend religious sentiments."
+    },
+    {
+        "Law_ID": 56,
+        "Law_Name": "Prevention of Corruption Act, 1988",
+        "Abbreviation": "S. 7",
+        "Description": "Acceptance or giving of bribes by public servants."
+    },
+    {
+        "Law_ID": 57,
+        "Law_Name": "Economic Offences (in various statutes)",
+        "Abbreviation": "Various",
+        "Description": "Includes crimes like fraud, embezzlement, money laundering."
+    },
+    {
+        "Law_ID": 58,
+        "Law_Name": "Foreigners Act, 1946",
+        "Abbreviation": "S. 3",
+        "Description": "Staying in India beyond the authorized period."
+    },
+    {
+        "Law_ID": 59,
+        "Law_Name": "Foreign Contribution (Regulation) Act, 2010",
+        "Abbreviation": "S. 11",
+        "Description": "Illegal receipt or use of foreign funds."
+    },
+    {
+        "Law_ID": 60,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 420",
+        "Description": "Fraudulent misrepresentation for financial gain."
+    },
+    {
+        "Law_ID": 61,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 408",
+        "Description": "Misappropriation of property entrusted to a servant or clerk."
+    },
+    {
+        "Law_ID": 62,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 409",
+        "Description": "Misappropriation of property by a public servant."
+    },
+    {
+        "Law_ID": 63,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 477A",
+        "Description": "Falsifying documents related to financial transactions."
+    },
+    {
+        "Law_ID": 64,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 489A",
+        "Description": "Making or using counterfeit currency."
+    },
+    {
+        "Law_ID": 65,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 489B",
+        "Description": "Using fake currency as if it were genuine."
+    },
+    {
+        "Law_ID": 66,
+        "Law_Name": "IPC",
+        "Abbreviation": "S. 489C",
+        "Description": "Holding counterfeit money."
+    },
+    {
+        "Law_ID": 67,
+        "Law_Name": "Foreign Exchange Management Act (FEMA), 1999",
+        "Abbreviation": "S. 13",
+        "Description": "Illegal transactions in foreign exchange."
+    },
+    {
+        "Law_ID": 68,
+        "Law_Name": "Customs Act, 1962",
+        "Abbreviation": "S. 111",
+        "Description": "Importing or exporting goods illegally."
+    },
+    {
+        "Law_ID": 69,
+        "Law_Name": "Customs Act, 1962",
+        "Abbreviation": "S. 135",
+        "Description": "Offenses related to the smuggling of goods."
+    },
+    {
+        "Law_ID": 70,
+        "Law_Name": "Immigration Act, 1980",
+        "Abbreviation": "S. 14",
+        "Description": "Illegal entry or stay in India."
+    },
+    {
+        "Law_ID": 71,
+        "Law_Name": "Code of Criminal Procedure, 1973",
+        "Abbreviation": "CrPC",
+        "Description": "The primary legislation on the procedure for administration of substantive criminal law in India."
+    },
+    {
+        "Law_ID": 72,
+        "Law_Name": "Indian Evidence Act, 1872",
+        "Abbreviation": "IEA",
+        "Description": "Governs the admissibility of evidence in Indian courts and includes rules for relevancy, admission, and presentation of evidence."
+    },
+    {
+        "Law_ID": 73,
+        "Law_Name": "Prevention of Money Laundering Act, 2002",
+        "Abbreviation": "PMLA",
+        "Description": "Prevents money laundering and provides for confiscation of property derived from, or involved in, money laundering."
+    },
+    {
+        "Law_ID": 74,
+        "Law_Name": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+        "Abbreviation": "NDPS",
+        "Description": "Regulates the operations related to narcotic drugs and psychotropic substances and provides for measures to prevent their trafficking."
+    },
+    {
+        "Law_ID": 75,
+        "Law_Name": "Arms Act, 1959",
+        "Abbreviation": "Arms Act",
+        "Description": "Regulates the acquisition, possession, manufacture, sale, import, export, and transport of arms and ammunition."
+    },
+    {
+        "Law_ID": 76,
+        "Law_Name": "Wildlife Protection Act, 1972",
+        "Abbreviation": "WPA",
+        "Description": "Provides protection to wild animals, birds, and plants, and ensures the ecological and environmental security of the country."
+    },
+    {
+        "Law_ID": 77,
+        "Law_Name": "Antiquities and Art Treasures Act, 1972",
+        "Abbreviation": "AATA",
+        "Description": "Regulates the export trade in antiquities and art treasures and prevents smuggling and fraudulent dealings in antiquities."
+    },
+    {
+        "Law_ID": 78,
+        "Law_Name": "Right to Information Act, 2005",
+        "Abbreviation": "RTI",
+        "Description": "Empowers citizens to request information from a public authority, promoting transparency and accountability in the working of the government."
+    },
+    {
+        "Law_ID": 79,
+        "Law_Name": "Protection of Human Rights Act, 1993",
+        "Abbreviation": "PHRA",
+        "Description": "Establishes a National Human Rights Commission for the promotion and protection of human rights."
+    },
+    {
+        "Law_ID": 80,
+        "Law_Name": "Right of Children to Free and Compulsory Education Act, 2009",
+        "Abbreviation": "RTE",
+        "Description": "Provides for free and compulsory education to all children in the age group of six to fourteen years."
+    },
+    {
+        "Law_ID": 81,
+        "Law_Name": "Juvenile Justice (Care and Protection of Children) Act, 2015",
+        "Abbreviation": "JJ Act",
+        "Description": "Provides for the care, protection, and rehabilitation of children in conflict with the law and children in need of care and protection."
+    },
+    {
+        "Law_ID": 82,
+        "Law_Name": "Information Technology (Amendment) Act, 2008",
+        "Abbreviation": "IT Act",
+        "Description": "Amends the Information Technology Act, 2000, to provide legal recognition to electronic transactions, digital signatures, and data protection."
+    },
+    {
+        "Law_ID": 83,
+        "Law_Name": "Theft and Robbery Act, 2023",
+        "Abbreviation": "TRA",
+        "Description": "Defines the laws related to theft and robbery, providing a comprehensive framework for the prosecution and punishment of these offenses."
+    },
+    {
+        "Law_ID": 84,
+        "Law_Name": "Prevention of Atrocities Act, 1989",
+        "Abbreviation": "POA",
+        "Description": "Prevents atrocities against Scheduled Castes and Scheduled Tribes and provides for special courts to try offenses under the Act."
+    },
+    {
+        "Law_ID": 85,
+        "Law_Name": "Consumer Protection Act, 2019",
+        "Abbreviation": "CPA",
+        "Description": "Protects the interests of consumers by establishing authorities for timely and effective administration and settlement of consumer disputes."
+    },
+    {
+        "Law_ID": 86,
+        "Law_Name": "The Indian Contract Act, 1872",
+        "Abbreviation": "ICA",
+        "Description": "Regulates contracts relating to the sale of goods, indemnity and guarantee, bailment and pledge, agency, etc."
+    },
+    {
+        "Law_ID": 87,
+        "Law_Name": "The Indian Partnership Act, 1932",
+        "Abbreviation": "IPA",
+        "Description": "Regulates the partnership firms and provides for their registration, rights, duties, and liabilities."
+    },
+    {
+        "Law_ID": 88,
+        "Law_Name": "The Sale of Goods Act, 1930",
+        "Abbreviation": "SGA",
+        "Description": "Regulates contracts relating to the sale of goods and provides for the rights and duties of buyers and sellers."
+    },
+    {
+        "Law_ID": 89,
+        "Law_Name": "The Negotiable Instruments Act, 1881",
+        "Abbreviation": "NIA",
+        "Description": "Regulates the law relating to negotiable instruments such as promissory notes, bills of exchange, and cheques."
+    }
+]
