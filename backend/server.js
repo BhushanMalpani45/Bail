@@ -11,6 +11,7 @@ import judgeRoutes from "./routes/judge-routes.js";
 import lawyerRoutes from "./routes/lawyer-routes.js";
 import faceRecognitionRoutes from "./routes/faceRecognition-routes.js";
 import userRoutes from "./routes/user-routes.js";
+import caseRoutes from './routes/caseRegistrationRoutes.js'
 
 dotenv.config();
 const app = express();
@@ -31,6 +32,7 @@ app.use("/lawyer", lawyerRoutes);
 app.use("/prisoner", prisonerRoutes);
 app.use("/face", faceRecognitionRoutes);
 app.use("/user", userRoutes);
+app.use('/api/cases', caseRoutes);
 
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`);
